@@ -1,0 +1,6 @@
+{
+  "name": "Wayfinder",
+  "description": "AI web navigation agent that explores websites, interprets natural-language questions, and retrieves verified structured information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
